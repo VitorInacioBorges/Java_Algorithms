@@ -1,4 +1,4 @@
-public class BinarySerach {
+public class BinarySearch {
     public static void main(String[] args){
         int[] myList = {10, 46, 59, 61, 123, 229, 236, 238, 712, 9983};
         System.out.println(binarySearch(myList, 10)); // 0
