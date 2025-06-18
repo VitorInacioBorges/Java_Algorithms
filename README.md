@@ -1,7 +1,8 @@
 ## Java Algorithms
 
 A repository that stores famous algorithms made exclusively with Java
-It includes algorithms such as:
+It includes some practicing exercises about:
 - Binary Search;
 - Selection Sort;
+- Recursive Functions;
 - (Still Updating);
